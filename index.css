@@ -31,11 +31,11 @@ button{
     
 }
 
-.column-btn{
+/* .column-btn{
     display: flex;
     flex-direction: column;
 
     justify-content:center;
     align-items: center;
     margin-top: 250px;
-}
+} */

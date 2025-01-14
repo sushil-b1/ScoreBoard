@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+   text-align: center;
+   background-color: #1B244A;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.score{
+    background: #0a0001;
+    color: #F94F6D;
+    width: 120px;
+    font-size: 90px;
+    margin: 20px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    padding: 20px;
+                                                                        
+                                                
+    
+}
+button{
+    background: none;
+    color: white;
+    margin: 2px;
+    border-color: #9AABD8;
+    margin-right: 10px;
+    
+}
+
+.column-btn{
+    display: flex;
+    flex-direction: column;
+
+    justify-content:center;
+    align-items: center;
+    margin-top: 250px;
+}
